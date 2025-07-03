@@ -20,19 +20,6 @@ With a plethora of free resources available online, including tutorials, code sn
 
 Join the "100 Days, 100 Websites" challenge today and witness your proficiency in web development soar to new heights. With dedication, perseverance, and a dash of creativity, you'll emerge from this journey as a proficient web developer ready to tackle any project that comes your way.
 
-# Output - 1
-
-![Screenshot (42)](https://github.com/QuantumCoding123/Day-9-Portfolio-Website-Interactive/assets/166281221/6f6ea44f-db64-440f-86f3-bb6b8b7246bf)
-
-
-# Output - 2
-
-![Screenshot (40)](https://github.com/QuantumCoding123/Day-9-Portfolio-Website-Interactive/assets/166281221/4a0e0e3a-c938-42a6-8efb-4dc944b36338)
-
-
-# Output - 3
-
-![Screenshot (41)](https://github.com/QuantumCoding123/Day-9-Portfolio-Website-Interactive/assets/166281221/574552ff-24ad-475a-b526-30dcc97e83c8)
 
 
 
